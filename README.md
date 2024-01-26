@@ -32,9 +32,6 @@ The project includes sentiment analysis, topic modeling, and dynamic data visual
 - Discovered positive correlation between Twitter/Reddit data and IMDB ratings.
 - Established positive sentiment in public tweets and Reddit posts related to movies and series.
 
-## Bugs and Considerations
-- Occasional delays in plot generation (less than 5 seconds) due to real-time data retrieval.
-
 ## Future Enhancements
 - Implement user authentication for personalized dashboards.
 - Explore additional data sources for more comprehensive insights.
